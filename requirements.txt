@@ -55,7 +55,7 @@ libpff-python-ratom==20220304
     # via -r requirements.in
 markupsafe==2.1.1
     # via jinja2
-murmurhash==1.0.9
+murmurhash==1.0.13
     # via
     #   preshed
     #   spacy
